@@ -10,3 +10,8 @@ This is my repo to create new projects using Go and the Polymer Starter Kit. You
 go run main.go
 ```
 
+## Viewing the app
+```
+http://localhost:3002
+```
+
