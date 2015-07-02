@@ -1,6 +1,10 @@
+bower_components
 node_modules
 dist
 test/temp
 bower_components
 .tmp
 test/bower_components/
+.json
+.js
+go_polymer_starter_kit
