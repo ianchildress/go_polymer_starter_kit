@@ -1,6 +1,4 @@
-Welcome to Polymer Starter Kit Light!
-
-To begin, fire up a local server from inside the `app` directory. Please make sure to serve up the contents of the directory rather than root as routing will otherwise fail to correctly function.
+This is my repo to create new projects using Go and the Polymer Starter Kit. You are welcome to use it. For information about the Polymer Starter Kit please go to https://github.com/polymerelements/polymer-starter-kit
 
 ## Setup
 1. Download Polymer Starter Kit Light from https://github.com/polymerelements/polymer-starter-kit/releases
